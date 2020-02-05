@@ -4,6 +4,9 @@ Back in 2018, me and some friends took part to the Reply Cyber Security Challeng
 
 Please be aware that this was a "black box" exercise therefore they are not supposed to be 100% accurate but the aim is to provide the same vulnerability and exploitation methods.
 
+### Disclaimer
+`¯\_(ツ)_/¯` It worked on my machine `¯\_(ツ)_/¯`
+
 ### Shame on me note
 For some reason I do not recall, I used PHP for this project... Probably because it was easy to get vulnerable code with it or because I had too much spare time.
 
