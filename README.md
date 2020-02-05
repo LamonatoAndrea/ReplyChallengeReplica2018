@@ -5,20 +5,20 @@ Back in 2018, me and some friends took part to the Reply Cyber Security Challeng
 Please be aware that this was a "black box" exercise therefore they are not supposed to be 100% accurate but the aim is to provide the same vulnerability and exploitation methods.
 
 ### Shame on me note
-For some reason I do not recall, I used PHP for this project... Probably because it was easy to get vulnerable code with it or because I had too much spare time
+For some reason I do not recall, I used PHP for this project... Probably because it was easy to get vulnerable code with it or because I had too much spare time.
 
 ## Web Challenges from Reply in 2018
 ### 00 - CaptchaFlag
-A simple puzzle on HTML source code and base64 encodings
+A simple puzzle on HTML source code and base64 encodings.
 
 ### 01 - BeautyScript
-A challenge about Javascript deobfuscation and cyphering
+A challenge about Javascript deobfuscation and cyphering.
 
 ### 02 - XMLExternalFlag
-A challenge about XXE and command injection vulnerabilities
+A challenge about XXE and command injection vulnerabilities.
 
 ### 03 - Secret Keeper
-A challenge about hard filtered SQL injection vulnerabilities
+A challenge about hard filtered SQL injection vulnerabilities.
 
 ### 04 - Ouch, my backup
 A challenge about path traversal vulnerabilities.
