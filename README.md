@@ -12,7 +12,7 @@ Please be aware that this was a "black box" exercise therefore they are not supp
 For some reason I do not recall, I used PHP for this project... Probably because it was easy to get vulnerable code with it or because I had too much spare time.
 
 ## Web Challenges from Reply in 2018
-Below descriptions are based on how challenges have been solved by the team, therefore there may be other solutions / vulnerabilities that I am not aware of.
+Below descriptions are based on how challenges have been solved by the team, therefore there may be other solutions and vulnerabilities that I am not aware of or additional vulnerabilities may have been introduced without noticing them.
 
 ### 00 - CaptchaFlag
 A simple puzzle on HTML source code and base64 encodings.
