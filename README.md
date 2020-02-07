@@ -47,7 +47,7 @@ Hobbies list as of today:
 	➤ Capture The Flag         ⚑	Thank you #ReplyChallenges
 	➤ Counter-attack attackers ✉	I love Spammers ♥
 	➤ Enthusiasm               ヅ   Share the 2020 mood
-	➤ Music                    ♪	I play Guitar \m/...(>.<)…\m/
+	➤ Music                    ♪	I play Guitar \m/...(>.<)...\m/
 	➤ Networks                 ␖	Trying to turn my home into a datacenter
 	➤ Sports                   ⚽	Currently learning skate!
 
