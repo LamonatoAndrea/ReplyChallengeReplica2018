@@ -1,8 +1,8 @@
 # Replica of Web Hacking Challenges from Reply in 2018
 ## tl;dr
-Back in 2018, me and some friends took part to the Reply Cyber Security Challenge. Unfortunately we were not able to reach our goal and the last position of the leaderboard was far from us but I got the weird idea to replicate their web challenges so that they can be exploited and studied locally.\
+Back in 2018, me and some friends took part to the Reply Cyber Security Challenge. Unfortunately we were not able to reach our goal and the last position of the leaderboard was far from us but I got the weird idea to replicate their web challenges so that they can be exploited and studied locally.
 
-Please be aware that this was a "black box" exercise therefore they are not supposed to be 100% accurate but the aim is to provide the same vulnerability and exploitation methods.\
+Please be aware that this was a "black box" exercise therefore they are not supposed to be 100% accurate but the aim is to provide the same vulnerability and exploitation methods.
 
 ### Disclaimer
 `¯\_(ツ)_/¯` It worked on my machine `¯\_(ツ)_/¯`\

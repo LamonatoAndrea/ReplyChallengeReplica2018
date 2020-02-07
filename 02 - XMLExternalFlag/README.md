@@ -1,10 +1,10 @@
 # 02 - XMLExternalFlag
 ## Description
-Once again, R-Boy is disappointed! He’s found no clues, so far. He starts thinking the rebels may have used false leads to stop snoopers discovering their plan, or could it be a training website for new Rebels?.\
+Once again, R-Boy is disappointed! He’s found no clues, so far. He starts thinking the rebels may have used false leads to stop snoopers discovering their plan, or could it be a training website for new Rebels?.
 
-He decides to carry on and chooses the third URL.\
+He decides to carry on and chooses the third URL.
 
-The web page he reaches looks empty, but it may have more information than it appears! R-Boy decides to stay on the page and analyse it.\
+The web page he reaches looks empty, but it may have more information than it appears! R-Boy decides to stay on the page and analyse it.
 
 Help R-Boy make sure he’s not wasting his precious time!
 

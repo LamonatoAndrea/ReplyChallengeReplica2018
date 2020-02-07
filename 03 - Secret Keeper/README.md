@@ -1,6 +1,6 @@
 # 03 - Secret Keeper
 ## Description
-Finally, R-Boy has found some valuable information!\
+Finally, R-Boy has found some valuable information!
 
 There’s another web page showing only a login form. Help him access the server to see if there’s any useful information here!
 
