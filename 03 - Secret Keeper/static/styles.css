@@ -1,0 +1,41 @@
+@font-face {
+    font-family: Modes;
+    src: url(modes.ttf);
+}
+
+body {
+    font-family: Modes;
+    background-color: #000000;
+    color: #01ba29;
+}
+
+.error {
+    color: red;
+}
+
+input, a {
+    font-family: Modes;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    background: transparent;
+    border-bottom: 2px solid #01ba29;
+    border-top: 2px solid #01ba29;
+    color: #01ba29;
+}
+
+table {
+    margin-right: 10%;
+    margin-left: 10%;
+    width: 80%;
+}
+
+th {
+    height: 50px;
+    border-bottom: 2px solid #01ba29;
+}
+
+th, td {
+    padding: 10px;
+}
