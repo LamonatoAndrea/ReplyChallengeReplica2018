@@ -18,11 +18,11 @@ Below descriptions are based on how challenges have been solved by the team, the
 A simple puzzle on HTML source code and base64 encodings.
 
 ### 01 - BeautyScript
-A challenge about Javascript deobfuscation and cyphering.
+A challenge about Javascript deobfuscation and cyphering.\
 **Kudos to @gx1 for solving this (https://github.com/giper45)**
 
 ### 02 - XMLExternalFlag
-A challenge about XXE and command injection vulnerabilities.
+A challenge about XXE and command injection vulnerabilities.\
 **Kudos to @gx1 for helping me with the XXE attack (https://github.com/giper45)**
 
 ### 03 - Secret Keeper
