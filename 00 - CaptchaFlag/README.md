@@ -8,5 +8,8 @@ One of the things R-Boy has learned so far, is that it’s possible to hide a me
 
 Can you help R-Boy find the hidden message?
 
-## Run the code
+### Run the code
 To execute the code it is possible to run the php built-in web server inside this directory (e.g. `php -S localhost:8000`).
+
+## Vulnerability
+This is a riddle therefore it does not revolve around any particular vulnerability, the only point I would like to highlight is that if something has to be hidden it should not be exposed.
